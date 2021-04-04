@@ -22,7 +22,7 @@
 - [x] Experience with Linux/MacOS/Windows
 - [x] Express.js 
 - [x] Figma
-- [ ] FirebaseCancel changes
+- [ ] Firebase
 - [ ] Flutter
 - [ ] Geolocation
 - [x] Git
