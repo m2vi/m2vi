@@ -20,8 +20,9 @@
 - [ ] Docker
 - [x] Electron
 - [x] Experience with Linux/MacOS/Windows
+- [x] Express.js 
 - [x] Figma
-- [ ] Firebase
+- [ ] FirebaseCancel changes
 - [ ] Flutter
 - [ ] Geolocation
 - [x] Git
