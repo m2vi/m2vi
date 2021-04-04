@@ -1,4 +1,3 @@
-
 # TODO:
 
 - [ ] Adobe Creative Suite
@@ -51,6 +50,7 @@
 - [ ] Nginx
 - [x] Node.js
 - [x] npm.js
+- [ ] OAuth
 - [ ] Oracle
 - [ ] Passport/SAML
 - [ ] Pentesting
