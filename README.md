@@ -68,7 +68,7 @@
 - [ ] Site speed optimization knowledge
 - [ ] Socket.io
 - [x] Typescript
-- [ ] UI/UX
+- [x] UI/UX
 - [ ] Visual Studio
 - [x] Visual Studio Code
 - [ ] Visual Studio Code Extensions
