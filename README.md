@@ -2,12 +2,12 @@
 
 - [ ] Adobe Creative Suite
 - [ ] Adobe Illustrator
-- [ ] Adobe Photoshop
+- [x] Adobe Photoshop
 - [ ] Adobe XD
-- [ ] Ajax
+- [x] Ajax
 - [ ] Angular
 - [ ] Apache
-- [ ] Atom
+- [x] Atom
 - [ ] Azure
 - [x] Bootstrap
 - [ ] C#
@@ -61,7 +61,7 @@
 - [ ] PyCharm
 - [ ] Python
 - [x] React
-- [ ] REST and other APIs
+- [x] REST and other APIs
 - [x] SASS
 - [x] SCSS
 - [ ] SEO
@@ -77,3 +77,4 @@
 - [ ] Webstorm
 - [ ] Wordpress
 - [ ] XML
+- [x] Javascript Math Stuff
