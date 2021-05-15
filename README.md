@@ -6,7 +6,7 @@
 - [ ] Adobe XD
 - [x] Ajax
 - [ ] Angular
-- [ ] Apache
+- [x] Apache
 - [x] Atom
 - [ ] Azure
 - [x] Bootstrap
@@ -27,7 +27,7 @@
 - [ ] Geolocation
 - [x] Git
 - [ ] Google Ads
-- [ ] Google Extensions
+- [x] Google Extensions
 - [ ] Google Marketing Platform
 - [ ] GraphQL
 - [ ] Gulp.js
@@ -48,7 +48,7 @@
 - [ ] MySQL
 - [ ] Netbeans
 - [x] Next.js
-- [ ] Nginx
+- [x] Nginx
 - [x] Node.js
 - [x] npm.js
 - [ ] OAuth
@@ -64,8 +64,8 @@
 - [x] REST and other APIs
 - [x] SASS
 - [x] SCSS
-- [ ] SEO
-- [ ] Site speed optimization knowledge
+- [x] SEO
+- [x] Site speed optimization knowledge
 - [ ] Socket.io
 - [x] Typescript
 - [x] UI/UX
