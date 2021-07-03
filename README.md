@@ -1,7 +1,7 @@
 # TODO:
 
 - [ ] Adobe Creative Suite
-- [ ] Adobe Illustrator
+- [x] Adobe Illustrator
 - [x] Adobe Photoshop
 - [ ] Adobe XD
 - [x] Ajax
@@ -15,7 +15,7 @@
 - [ ] Cyber Security
 - [ ] Dart
 - [ ] Data science
-- [ ] Data visualization
+- [x] Data Visualization
 - [ ] Django
 - [ ] Docker
 - [x] Electron
@@ -24,7 +24,7 @@
 - [x] Figma
 - [ ] Firebase
 - [ ] Flutter
-- [ ] Geolocation
+- [x] Geolocation
 - [x] Git
 - [ ] Google Ads
 - [x] Google Extensions
@@ -45,7 +45,7 @@
 - [ ] MariaDB
 - [x] Markdown
 - [x] MongoDB
-- [ ] MySQL
+- [x] MySQL
 - [ ] Netbeans
 - [x] Next.js
 - [x] Nginx
@@ -75,6 +75,6 @@
 - [ ] Vue.js
 - [ ] Webpack
 - [ ] Webstorm
-- [ ] Wordpress
+- [x] Wordpress
 - [ ] XML
 - [x] Javascript Math Stuff
